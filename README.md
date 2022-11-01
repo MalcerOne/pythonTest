@@ -14,3 +14,8 @@ Then the script will collect all courses from this category and place them into 
 
 Once finished, the script should place the CSV file on the server and provide a link to access it.
 Once you are done, upload your script to the web that shows the interface which allows the user to select a coursera category.
+
+# Instructions of use
+- Activate virtual enviroment.
+- pip install -r requirements.txt
+- python3 main.py
